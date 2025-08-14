@@ -30,3 +30,8 @@ header {
   gap: 80px;
   text-transform: uppercase;
 }
+
+.nav_item {
+  font-size: 25px;
+  color: darkred;
+}
