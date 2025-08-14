@@ -38,5 +38,6 @@ header {
 }
 
 .nav_item:hover {
-  background-color: blueviolet;
+  background-color: rgb(166, 110, 218);
+  color: black;
 }
