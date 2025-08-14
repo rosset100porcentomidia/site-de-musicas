@@ -37,6 +37,6 @@ header {
   color: darkred;
 }
 
-.nav_item a;:hover {
+.nav_item:hover {
   background-color: blueviolet;
 }
