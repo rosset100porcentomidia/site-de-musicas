@@ -36,3 +36,7 @@ header {
   font-size: 25px;
   color: darkred;
 }
+
+.nav_item a;:hover {
+  background-color: blueviolet;
+}
