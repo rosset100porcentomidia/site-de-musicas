@@ -8,6 +8,7 @@ box-sizing: border-box;                                                         
 header {
   width: 100%;
   padding: 20px 8%;
+  background-color: hotpink;
 }
 
 #logo {
