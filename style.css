@@ -43,3 +43,8 @@ header {
   color: black;
   text-decoration: underline;
 }
+
+.home {
+  display: flex;
+  min-height: calc(100vh - 91px);
+}
