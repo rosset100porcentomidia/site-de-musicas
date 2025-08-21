@@ -58,6 +58,7 @@ section {
   .titulo {
     font-size: 4rem;
     color: rgb(55, 6, 102);
+    justify-content: center;
   }
 
   .titulocor {
