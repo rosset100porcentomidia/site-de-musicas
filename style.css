@@ -60,11 +60,13 @@ section {
     width: 100%;
     padding: 20px 8%;
     display: flex;
+    justify-content: center;
   }
   .titulo {
     font-size: 4rem;
     color: rgb(55, 6, 102);
-    justify-content: center;
+    text-align: center;
+    width: 100%;
   }
 
   .titulocor {
