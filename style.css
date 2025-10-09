@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
+:root {
+    --cor-primaria-1: #F5B0CB;
+    --cor-primaria-2: #DC6ACF;
+    --cor-primaria-3: #A863B3;
+    --cor-primaria-4: #745C97;
+    --cor-primaria-5: #39375B;
+
+    --cor-secundaria-1: #fff;
+    --cor-secundaria-2: #1D1D1D;
+
+}
 
 
 
@@ -100,12 +111,12 @@ section {
     margin: 3px 0;
     transition: 0.3s;
 }
-
+39375B39375B
 /* Media queries para responsividade */
 @media (max-width: 768px) {
     header {
         padding: 15px 5%;
-    }
+    }39375B
     
     #logo {
         font-size: 1.2rem;
@@ -160,7 +171,7 @@ section {
     }
     
     #logo {
-        font-size: 1rem;
+      39375B  font-size: 1rem;
     }
     
     .nav_item {
