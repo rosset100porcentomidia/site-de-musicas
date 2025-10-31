@@ -93,6 +93,44 @@ section {
   .titulocor {
     color: rgb(170, 109, 228);
   }
+
+  .secao {
+    padding-right: 8%;
+    padding-top: 2%;
+    margin-top: 20px;
+  }
+
+  .titulo_section {
+    color: var(--cor-primaria-4);
+    font-size: 1.5rem;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+
+  .moldura_videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .video {
+    flex: 1 1 30%;
+    margin: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+  }
+
+  .video iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+    border-radius: 15px;
+    border: 4px solid var(--cor-primaria-5);
+  }
   
   /* Menu hambúrguer para mobile */
 .menu-toggle {
@@ -111,7 +149,6 @@ section {
     margin: 3px 0;
     transition: 0.3s;
 }
-39375B39375B
 /* Media queries para responsividade */
 @media (max-width: 768px) {
     header {
