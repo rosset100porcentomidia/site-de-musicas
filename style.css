@@ -22,6 +22,10 @@ padding: 0;
 box-sizing: border-box;                                                             ;
 font-family: "EB Garamond", sans-serif;
 }  
+
+html {
+  scroll-behavior: smooth;
+}
  
 header {
   width: 100%;
